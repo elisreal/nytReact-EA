@@ -58,11 +58,8 @@ class Home extends Component {
           <Col size="md-12">
             <Jumbotron>
               <h1 className="text-center">
-                <strong>(ReactJS) New York Times Article Scrubber</strong>
+                <img src={'./images/logo.png'} alt="NYTLogo" className="logo"/>
               </h1>
-              <h2 className="text-center">
-                Search for and save articles of interest.
-              </h2>
             </Jumbotron>
           </Col>
           <Col size="md-12">

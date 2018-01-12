@@ -1,3 +1,12 @@
 .navbar {
   border-radius: 0;
 }
+
+.icon {
+    width: 16px;
+}
+
+.navbar-default .navbar-nav li a {
+	color: #FFFFFF;
+	font-family: 'Karla', sans-serif;
+}

@@ -5,3 +5,8 @@
 .jumbotron h2 {
   font-size: 26px;
 }
+
+.container .jumbotron, .container-fluid .jumbotron {
+	background-image: url({'./images/newspaper.jpg'});
+	border-radius: 0;
+}
